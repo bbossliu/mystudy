@@ -1,0 +1,13 @@
+server:
+  port: 8891
+
+spring:
+  activemq:
+    broker-url: tcp://192.168.2.129:61608
+    user: admin
+    password: admin
+  jms:
+    pub-sub-domain: false #false表示启用队列
+
+#自定义的队列名称
+myqueue: broker-activemq-queue

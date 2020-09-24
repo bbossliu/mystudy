@@ -1,0 +1,1493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="759ead4b-8af7-4f40-8a04-18b9648cf7fe" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/poistudy/target/" />
+    <ignored path="$PROJECT_DIR$/mybatisstudy/target/" />
+    <ignored path="$PROJECT_DIR$/structure/target/" />
+    <ignored path="$PROJECT_DIR$/mybatisstudy-spring/target/" />
+    <ignored path="$PROJECT_DIR$/mypassportweb/target/" />
+    <ignored path="$PROJECT_DIR$/Myoauthresource/target/" />
+    <ignored path="$PROJECT_DIR$/commystudyxl/target/" />
+    <ignored path="$PROJECT_DIR$/micro-city/target/" />
+    <ignored path="$PROJECT_DIR$/designpattern/target/" />
+    <ignored path="$PROJECT_DIR$/miostudy/target/" />
+    <ignored path="$PROJECT_DIR$/mjuc/target/" />
+    <ignored path="$PROJECT_DIR$/mrocketmq/target/" />
+    <ignored path="$PROJECT_DIR$/mjwt/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmqspring/target/" />
+    <ignored path="$PROJECT_DIR$/redis/target/" />
+    <ignored path="$PROJECT_DIR$/activemq/target/" />
+    <ignored path="$PROJECT_DIR$/activemq/activmq-spring/target/" />
+    <ignored path="$PROJECT_DIR$/activemq-spring/target/" />
+    <ignored path="$PROJECT_DIR$/springmvc-study/target/" />
+    <ignored path="$PROJECT_DIR$/springmvc-study01/target/" />
+    <ignored path="$PROJECT_DIR$/springmvc-study02/target/" />
+    <ignored path="$PROJECT_DIR$/springmvc-study03/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="study-test@120.79.61.78" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="study-test@120.79.61.78" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="study-test@120.79.61.78" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="study-test: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="study-test@120.79.61.78" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="study-test: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="mybatis_student: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="study-test@120.79.61.78" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mystudy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mybatisstudy-spring/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>InputStream</find>
+      <find>fields</find>
+      <find>mybatis</find>
+      <find>my</find>
+      <find>DataSourceTransactionManager</find>
+      <find>你自己的父类实体,没有就不用设</find>
+      <find>contro</find>
+      <find>ExecutorType.Ba</find>
+      <find>parameterObject</find>
+      <find>roundUpToPowerOf2</find>
+      <find>transfer</find>
+      <find>bindAddr</find>
+      <find>address</find>
+      <find>线程1</find>
+      <find>RunWith</find>
+      <find>192.168.204.188</find>
+      <find>Holder.ALTERNATIVE_HASHING_THRESHOLD</find>
+      <find>package</find>
+      <find>WebApplicationInitializer</find>
+      <find>mybatisplus</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>192.168.2.129</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/activemq/src/main/java/com/mystudy/activemq/ActiveMQConsumerTopic.java" />
+        <option value="$PROJECT_DIR$/activemq/src/main/java/com/mystudy/activemq/ActiveMQProductTopic.java" />
+        <option value="$PROJECT_DIR$/activemq/src/main/java/com/mystudy/activemq/ActiveMqConsumer.java" />
+        <option value="$PROJECT_DIR$/activemq/src/main/java/com/mystudy/activemq/ActiveMQTest01.java" />
+        <option value="$PROJECT_DIR$/activemq/src/main/java/com/mystudy/activemq/delivery/ActiveProductDeliveryTopic.java" />
+        <option value="$PROJECT_DIR$/activemq/src/main/java/com/mystudy/activemq/delivery/ActiveMQConsumerDeliveryTopic.java" />
+        <option value="$PROJECT_DIR$/activemq/src/main/java/com/mystudy/activemq/tx/ActiveMQTXConsumer.java" />
+        <option value="$PROJECT_DIR$/activemq/src/main/java/com/mystudy/activemq/tx/ActiveMQTXConsumer02.java" />
+        <option value="$PROJECT_DIR$/activemq/src/main/java/com/mystudy/activemq/tx/ActiveMQTXProduct.java" />
+        <option value="$PROJECT_DIR$/activemq/activmq-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/activemq/pom.xml" />
+        <option value="$PROJECT_DIR$/activemq-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/activemq-spring/src/main/java/com/mystudy/test/config/QueueConfig.java" />
+        <option value="$PROJECT_DIR$/activemq-spring/src/main/java/com/mystudy/test/product/QueueProduc.java" />
+        <option value="$PROJECT_DIR$/activemq-spring/src/main/java/com/mystudy/test/ActiveMQApplication.java" />
+        <option value="$PROJECT_DIR$/activemq-spring/src/test/java/com/mystudy/test/MyTestMQ.java" />
+        <option value="$PROJECT_DIR$/activemq-spring/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/activemq-spring/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/activemq-spring/src/main/java/com/mystudy/test/product/QueueProduct.java" />
+        <option value="$PROJECT_DIR$/activemq-spring/src/main/java/com/mystudy/test/config/ActiveMQConfig.java" />
+        <option value="$PROJECT_DIR$/activemq-spring/src/main/java/com/mystudy/test/product/AsyncProduct.java" />
+        <option value="$PROJECT_DIR$/activemq-spring/src/main/java/com/mystudy/test/consumer/QueueConsummer.java" />
+        <option value="$PROJECT_DIR$/activemq-spring/src/main/java/com/mystudy/test/product/SchedulProduct.java" />
+        <option value="$PROJECT_DIR$/myjdk/src/com/mystudy/jdk7/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/springmvc-study/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-study01/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/springmvc-study01/src/main/java/com/mystudy/lx/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/springmvc-study01/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/springmvc-study01/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/lx/annotation/MyController.java" />
+        <option value="$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/lx/annotation/MyRequestMapping.java" />
+        <option value="$PROJECT_DIR$/springmvc-study02/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-study02/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/test/Test.java" />
+        <option value="$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/lx/annotation/MyResponseBody.java" />
+        <option value="$PROJECT_DIR$/springmvc-study02/src/main/webapp/page/index.html" />
+        <option value="$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/lx/controller/MyController.java" />
+        <option value="$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/lx/entity/UserEntity.java" />
+        <option value="$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/lx/servelet/LXDispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/springmvc-study02/src/main/resources/lxmvc.xml" />
+        <option value="$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/lx/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/WebInit.java" />
+        <option value="$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/inface/WebInit.java" />
+        <option value="$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/init/LxServletContainerInitializer.java" />
+        <option value="$PROJECT_DIR$/springmvc-study03/src/main/webapp/META-INF/services/javax.servlet.ServletContainerInitializer" />
+        <option value="$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/init/MyWebApplicationInitializer.java" />
+        <option value="$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/init/LxWebApplicationInitializer.java" />
+        <option value="$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/controller/MyTestController.java" />
+        <option value="$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/springmvc-study03/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/TomcatApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\mvnrep" />
+        <option name="mavenHome" value="E:/下载的软件/开发软件包/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\DevPac\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-55" />
+    <option name="width" value="1560" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <sortByType ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+              <item name="lx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+              <item name="lx" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="baomidou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="baomidou" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="baomidou" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="baomidou" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+              <item name="generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="baomidou" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+              <item name="generator" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="baomidou" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+              <item name="generator" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="baomidou" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+              <item name="generator" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="baomidou" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+              <item name="generator" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="baomidou" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+              <item name="generator" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+              <item name="lx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+              <item name="lx" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+              <item name="lx" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mystudy" type="462c0819:PsiDirectoryNode" />
+              <item name="lx" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mymapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisstudy-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: javax.servlet:javax.servlet-api:3.1.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: javax.servlet:javax.servlet-api:3.1.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="javax.servlet-api-3.1.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: javax.servlet:javax.servlet-api:3.1.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="javax.servlet-api-3.1.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="javax" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: javax.servlet:javax.servlet-api:3.1.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="javax.servlet-api-3.1.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="javax" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: javax.servlet:javax.servlet-api:3.1.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="javax.servlet-api-3.1.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="javax" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.1.11.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.1.11.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.1.11.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.1.11.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.1.11.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.1.11.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.1.11.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.1.11.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.1.11.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.1.11.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.1.11.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.1.11.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.1.11.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600960752110" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="E:/luban/luban-mall" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15397924" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaWorker02\mystudy\springmvc-study03\src\main\webapp" />
+      <recent name="E:\IdeaWorker02\mystudy\redis\src\main\java\com\mystudy\redis\service" />
+      <recent name="E:\IdeaWorker02\mystudy\redis\src\main\java\com\mystudy\redis\service\impl" />
+      <recent name="E:\IdeaWorker02\mystudy\Myoauthresource\src\main\resources\mapper" />
+      <recent name="E:\IdeaWorker02\mystudy\Myoauthresource\src\main\java\com\mystudy\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mystudy.lx.controller" />
+      <recent name="com.mystudy.lx.mapper" />
+      <recent name="com.mystudy.lx.entity" />
+      <recent name="com.mystudy.lx.interceptor" />
+      <recent name="com.mystudy.mybatis.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaWorker02\mystudy\springmvc-study03\src\main\resources" />
+      <recent name="E:\IdeaWorker02\mystudy\mybatisstudy\src\test\java\com\mystudy\lx" />
+      <recent name="E:\IdeaWorker02\mystudy\mybatisstudy\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.20423497" />
+  </component>
+  <component name="RunManager" selected="Application.TomcatApplication">
+    <configuration name="ActiveMQTXConsumer02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mystudy.activemq.tx.ActiveMQTXConsumer02" />
+      <module name="activemq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mystudy.activemq.tx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LXDispatcherServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mystudy.lx.servelet.LXDispatcherServlet" />
+      <module name="springmvc-study02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mystudy.lx.servelet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mystudy.test.Test" />
+      <module name="springmvc-study02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mystudy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TomcatApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mystudy.lx.TomcatApplication" />
+      <module name="springmvc-study03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mystudy.lx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActiveMQApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="activemq-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mystudy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mystudy.test.ActiveMQApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelUtilsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="poistudy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mystudy.ExcelUtilsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatisstudy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mystudy.lx.MyBatisStudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyPassPortWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mypassportweb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mystudy.lx.MyPassPortWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mystudy.redis.SpringBootRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ActiveMQTXConsumer02" />
+      <item itemvalue="Application.LXDispatcherServlet" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.TomcatApplication" />
+      <item itemvalue="Spring Boot.ExcelUtilsApplication" />
+      <item itemvalue="Spring Boot.MyBatisStudyApplication" />
+      <item itemvalue="Spring Boot.MyPassPortWebApplication" />
+      <item itemvalue="Spring Boot.SpringBootRedisApplication" />
+      <item itemvalue="Spring Boot.ActiveMQApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TomcatApplication" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.LXDispatcherServlet" />
+        <item itemvalue="Spring Boot.ActiveMQApplication" />
+        <item itemvalue="Application.ActiveMQTXConsumer02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="759ead4b-8af7-4f40-8a04-18b9648cf7fe" name="Default Changelist" comment="" />
+      <created>1589109629784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589109629784</updated>
+      <workItem from="1589109633391" duration="9226000" />
+      <workItem from="1589207710158" duration="2175000" />
+      <workItem from="1589295104985" duration="1308000" />
+      <workItem from="1589380705780" duration="2302000" />
+      <workItem from="1589644187093" duration="1675000" />
+      <workItem from="1589707070646" duration="15951000" />
+      <workItem from="1589809150797" duration="1592000" />
+      <workItem from="1590071574625" duration="1958000" />
+      <workItem from="1590286511566" duration="20451000" />
+      <workItem from="1590316928891" duration="9839000" />
+      <workItem from="1590798358045" duration="15537000" />
+      <workItem from="1590851433583" duration="3209000" />
+      <workItem from="1591283353270" duration="1477000" />
+      <workItem from="1591707180636" duration="4857000" />
+      <workItem from="1591802467036" duration="660000" />
+      <workItem from="1591874267469" duration="598000" />
+      <workItem from="1591880868605" duration="4759000" />
+      <workItem from="1592101958292" duration="14153000" />
+      <workItem from="1592232948633" duration="2333000" />
+      <workItem from="1592405005522" duration="2876000" />
+      <workItem from="1592491108973" duration="4578000" />
+      <workItem from="1592574258502" duration="614000" />
+      <workItem from="1592575580424" duration="2890000" />
+      <workItem from="1592726671292" duration="8179000" />
+      <workItem from="1593139698526" duration="670000" />
+      <workItem from="1593172830325" duration="10819000" />
+      <workItem from="1593226746305" duration="9173000" />
+      <workItem from="1593246036444" duration="1387000" />
+      <workItem from="1593263106665" duration="2124000" />
+      <workItem from="1593438727383" duration="602000" />
+      <workItem from="1593617675732" duration="3030000" />
+      <workItem from="1593699541028" duration="4897000" />
+      <workItem from="1593789006698" duration="602000" />
+      <workItem from="1593868691205" duration="599000" />
+      <workItem from="1594218460592" duration="4436000" />
+      <workItem from="1594305284292" duration="599000" />
+      <workItem from="1594466755146" duration="1226000" />
+      <workItem from="1594513086960" duration="597000" />
+      <workItem from="1594514078049" duration="1790000" />
+      <workItem from="1594529242421" duration="1177000" />
+      <workItem from="1594539444807" duration="252000" />
+      <workItem from="1595054015045" duration="3240000" />
+      <workItem from="1595169697207" duration="2869000" />
+      <workItem from="1595259461665" duration="598000" />
+      <workItem from="1595428600856" duration="674000" />
+      <workItem from="1595681560092" duration="698000" />
+      <workItem from="1595686851357" duration="17000" />
+      <workItem from="1596035192674" duration="743000" />
+      <workItem from="1596120107608" duration="35000" />
+      <workItem from="1596120514130" duration="1649000" />
+      <workItem from="1596260824946" duration="2794000" />
+      <workItem from="1597800125637" duration="397000" />
+      <workItem from="1597801243336" duration="2425000" />
+      <workItem from="1597803715521" duration="4847000" />
+      <workItem from="1597845057034" duration="897000" />
+      <workItem from="1597887197819" duration="17220000" />
+      <workItem from="1597933357836" duration="2681000" />
+      <workItem from="1597976794977" duration="9866000" />
+      <workItem from="1598591348234" duration="4933000" />
+      <workItem from="1598671013903" duration="599000" />
+      <workItem from="1599707322529" duration="3593000" />
+      <workItem from="1599789666257" duration="3131000" />
+      <workItem from="1599918050792" duration="4215000" />
+      <workItem from="1599971245245" duration="39000" />
+      <workItem from="1599980856899" duration="3790000" />
+      <workItem from="1600047343022" duration="5517000" />
+      <workItem from="1600956683216" duration="1212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MybatisInterceptTest1 - 2020.05.18 at 21h 43m 10s.xml">
+      <configuration name="MybatisInterceptTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisInterceptTest1 - 2020.05.18 at 21h 56m 06s.xml">
+      <configuration name="MybatisInterceptTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisInterceptTest1 - 2020.05.18 at 21h 57m 41s.xml">
+      <configuration name="MybatisInterceptTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisInterceptTest1 - 2020.05.18 at 21h 58m 51s.xml">
+      <configuration name="MybatisInterceptTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisInterceptTest1 - 2020.05.18 at 22h 00m 26s.xml">
+      <configuration name="MybatisInterceptTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisInterceptTest1 - 2020.05.18 at 22h 03m 42s.xml">
+      <configuration name="MybatisInterceptTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisInterceptTest1 - 2020.05.18 at 22h 06m 06s.xml">
+      <configuration name="MybatisInterceptTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisInterceptTest1 - 2020.05.18 at 22h 06m 54s.xml">
+      <configuration name="MybatisInterceptTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisInterceptTest1_test1 - 2020.05.24 at 12h 13m 41s.xml">
+      <configuration name="MybatisInterceptTest1.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisInterceptTest1_test1 - 2020.05.24 at 12h 15m 29s.xml">
+      <configuration name="MybatisInterceptTest1.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="255856000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.37519142" side_tool="true" weight="0.21313673" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.62480855" visible="true" weight="0.3632708" />
+      <window_info id="Structure" order="7" sideWeight="0.16232772" side_tool="true" weight="0.30428955" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.6163982" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.7013177" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.11566618" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.07906296" />
+      <window_info anchor="bottom" id="Alipay DevTools" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.21961933" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.329429" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" weight="0.043923866" />
+      <window_info anchor="bottom" id="MyBatis Log" order="18" weight="0.45898438" />
+      <window_info anchor="right" id="Maven" order="0" visible="true" weight="0.06836461" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.2533512" />
+      <window_info anchor="right" id="Mybatis datasource" order="10" side_tool="true" />
+      <window_info anchor="right" id="Translation Assistant" order="11" weight="0.3297587" />
+      <window_info anchor="right" id="Word Book" order="12" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>type.equals(String.class)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/poistudy/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="51" selection-start-line="10" selection-start-column="3" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE.jar!/org/springframework/test/context/ContextConfigurationAttributes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study01/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study01/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/lx/TestMVCStudyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study01/src/main/java/com/mystudy/lx/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE.jar!/org/springframework/stereotype/Controller.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/lx/annotation/MyRequestMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study02/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study02/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/lx/annotation/MyResponseBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study02/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study02/src/main/webapp/page/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/lx/annotation/MyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/lx/entity/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study02/src/main/resources/lxmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/lx/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study02/src/main/java/com/mystudy/lx/servelet/LXDispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="184" column="54" selection-start-line="184" selection-start-column="54" selection-end-line="184" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.1.RELEASE/spring-webmvc-5.2.1.RELEASE.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study01/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="119" column="17" selection-start-line="111" selection-start-column="7" selection-end-line="119" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.11.RELEASE/spring-web-5.1.11.RELEASE.jar!/META-INF/services/javax.servlet.ServletContainerInitializer">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/WebApplicationInitializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="64" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/inface/WebInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/annotation/HandlesTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study03/src/main/resources/META-INF/services/javax.servlet.ServletContainerInitializer">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/init/MyWebApplicationInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/init/LxServletContainerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.11.RELEASE/spring-web-5.1.11.RELEASE-sources.jar!/org/springframework/web/SpringServletContainerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="171" column="50" lean-forward="true" selection-start-line="171" selection-start-column="50" selection-end-line="171" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study03/src/main/webapp/META-INF/services/javax.servlet.ServletContainerInitializer" />
+    <entry file="file://$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/controller/MyTestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/init/LxWebApplicationInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study03/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc-study03/src/main/java/com/mystudy/lx/TomcatApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy/src/main/resources/mapper/MybatisStudentDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy/src/main/java/com/mystudy/lx/controller/MybatisStudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy-spring/src/main/java/com/baomidou/com/mystudy/generator/mapper/MybatisStudentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy-spring/src/main/java/com/mystudy/lx/mapper/MybatisStudentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy-spring/src/main/java/com/mystudy/lx/entity/MybatisStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy-spring/src/main/java/com/mystudy/lx/interceptor/MyInterceport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="101" column="43" lean-forward="true" selection-start-line="101" selection-start-column="43" selection-end-line="101" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy-spring/src/main/java/com/mystudy/lx/interceptor/MyInterceport1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy-spring/src/main/java/com/baomidou/com/mystudy/generator/controller/MybatisStudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy-spring/src/main/java/com/baomidou/com/mystudy/generator/entity/MybatisStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy-spring/src/main/java/com/baomidou/com/mystudy/generator/service/impl/MybatisStudentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="95" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy-spring/src/main/java/com/baomidou/com/mystudy/generator/service/IMybatisStudentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy-spring/src/main/resources/mapper/MybatisStudentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy-spring/src/main/resources/mymapper/MybatisStudentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisstudy-spring/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>springmvc-study01:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springmvc-study03</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

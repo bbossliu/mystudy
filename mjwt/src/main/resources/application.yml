@@ -1,0 +1,4 @@
+jwt:
+  congit:
+    key: liuxin
+    ttl: 1800000

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="activemq-spring" />
+        <module name="micro-city" />
+        <module name="miostudy" />
+        <module name="mjuc" />
+        <module name="mjwt" />
+        <module name="mrocketmq" />
+        <module name="mybatisstudy-spring" />
+        <module name="Myoauthresource" />
+        <module name="mypassportweb" />
+        <module name="poistudy" />
+        <module name="rabbitmqspring" />
+        <module name="redis" />
+        <module name="springmvc-study" />
+        <module name="springmvc-study02" />
+        <module name="springmvc-study03" />
+        <module name="structure" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="activemq" target="1.8" />
+      <module name="activemq-spring" target="1.8" />
+      <module name="commystudyxl" target="1.8" />
+      <module name="designpattern" target="1.8" />
+      <module name="micro-city" target="1.8" />
+      <module name="miostudy" target="1.8" />
+      <module name="mjuc" target="1.8" />
+      <module name="mjwt" target="1.8" />
+      <module name="mrocketmq" target="1.8" />
+      <module name="mybatisstudy" target="1.8" />
+      <module name="mybatisstudy-spring" target="1.8" />
+      <module name="Myoauthresource" target="1.8" />
+      <module name="mypassportweb" target="1.8" />
+      <module name="poistudy" target="1.8" />
+      <module name="rabbitmqspring" target="1.8" />
+      <module name="redis" target="1.8" />
+      <module name="springmvc-study" target="1.8" />
+      <module name="springmvc-study01" target="1.8" />
+      <module name="springmvc-study02" target="1.8" />
+      <module name="springmvc-study03" target="1.8" />
+      <module name="structure" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-parameters" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Myoauthresource" options="-parameters" />
+      <module name="activemq-spring" options="-parameters" />
+      <module name="micro-city" options="" />
+      <module name="miostudy" options="" />
+      <module name="mjuc" options="" />
+      <module name="mjwt" options="" />
+      <module name="mrocketmq" options="" />
+      <module name="mybatisstudy" options="-parameters" />
+      <module name="mybatisstudy-spring" options="-parameters" />
+      <module name="mypassportweb" options="-parameters" />
+      <module name="poistudy" options="-parameters" />
+      <module name="rabbitmqspring" options="" />
+      <module name="redis" options="-parameters" />
+      <module name="springmvc-study" options="" />
+      <module name="springmvc-study01" options="" />
+      <module name="springmvc-study02" options="" />
+      <module name="springmvc-study03" options="" />
+      <module name="structure" options="-parameters" />
+    </option>
+  </component>
+</project>

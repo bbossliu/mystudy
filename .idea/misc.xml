@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-study01" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-study02" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-study03" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/poistudy/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisstudy/pom.xml" />
+        <option value="$PROJECT_DIR$/mypassportweb/pom.xml" />
+        <option value="$PROJECT_DIR$/Myoauthresource/pom.xml" />
+        <option value="$PROJECT_DIR$/commystudyxl/pom.xml" />
+        <option value="$PROJECT_DIR$/designpattern/pom.xml" />
+        <option value="$PROJECT_DIR$/miostudy/pom.xml" />
+        <option value="$PROJECT_DIR$/mjuc/pom.xml" />
+        <option value="$PROJECT_DIR$/mrocketmq/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmqspring/pom.xml" />
+        <option value="$PROJECT_DIR$/redis/pom.xml" />
+        <option value="$PROJECT_DIR$/activemq/pom.xml" />
+        <option value="$PROJECT_DIR$/activemq-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-study/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-study01/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-study02/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-study03/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/activemq/activmq-spring/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

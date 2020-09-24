@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Myoauthresource/Myoauthresource.iml" filepath="$PROJECT_DIR$/Myoauthresource/Myoauthresource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq/activemq.iml" filepath="$PROJECT_DIR$/activemq/activemq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-spring/activemq-spring.iml" filepath="$PROJECT_DIR$/activemq-spring/activemq-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commystudyxl/commystudyxl.iml" filepath="$PROJECT_DIR$/commystudyxl/commystudyxl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpattern/designpattern.iml" filepath="$PROJECT_DIR$/designpattern/designpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-city/micro-city.iml" filepath="$PROJECT_DIR$/micro-city/micro-city.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miostudy/miostudy.iml" filepath="$PROJECT_DIR$/miostudy/miostudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mjuc/mjuc.iml" filepath="$PROJECT_DIR$/mjuc/mjuc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mjwt/mjwt.iml" filepath="$PROJECT_DIR$/mjwt/mjwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mrocketmq/mrocketmq.iml" filepath="$PROJECT_DIR$/mrocketmq/mrocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisstudy/mybatisstudy.iml" filepath="$PROJECT_DIR$/mybatisstudy/mybatisstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisstudy-spring/mybatisstudy-spring.iml" filepath="$PROJECT_DIR$/mybatisstudy-spring/mybatisstudy-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myjdk/myjdk.iml" filepath="$PROJECT_DIR$/myjdk/myjdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mypassportweb/mypassportweb.iml" filepath="$PROJECT_DIR$/mypassportweb/mypassportweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poistudy/poistudy.iml" filepath="$PROJECT_DIR$/poistudy/poistudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmqspring/rabbitmqspring.iml" filepath="$PROJECT_DIR$/rabbitmqspring/rabbitmqspring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis/redis.iml" filepath="$PROJECT_DIR$/redis/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-study/springmvc-study.iml" filepath="$PROJECT_DIR$/springmvc-study/springmvc-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-study01/springmvc-study01.iml" filepath="$PROJECT_DIR$/springmvc-study01/springmvc-study01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-study02/springmvc-study02.iml" filepath="$PROJECT_DIR$/springmvc-study02/springmvc-study02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-study03/springmvc-study03.iml" filepath="$PROJECT_DIR$/springmvc-study03/springmvc-study03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structure/structure.iml" filepath="$PROJECT_DIR$/structure/structure.iml" />
+    </modules>
+  </component>
+</project>

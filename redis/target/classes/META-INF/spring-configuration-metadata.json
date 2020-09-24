@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "bloom.filter",
+      "type": "com.mystudy.redis.filter.RedisBloomFilter",
+      "sourceType": "com.mystudy.redis.filter.RedisBloomFilter"
+    }
+  ],
+  "properties": [
+    {
+      "name": "bloom.filter.expected-insertions",
+      "type": "java.lang.Long",
+      "sourceType": "com.mystudy.redis.filter.RedisBloomFilter",
+      "defaultValue": 0
+    },
+    {
+      "name": "bloom.filter.fpp",
+      "type": "java.lang.Double",
+      "sourceType": "com.mystudy.redis.filter.RedisBloomFilter"
+    }
+  ],
+  "hints": []
+}

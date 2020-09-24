@@ -1,0 +1,22 @@
+server:
+  servlet:
+    context-path: "/api"
+  port: 8888
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://120.79.61.78:3316/study-test?useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: root
+  output:
+    ansi:
+      enabled: detect
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+
+logging:
+  level:
+    com.kundy.excelutils: debug
